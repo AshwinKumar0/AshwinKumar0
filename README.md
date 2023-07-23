@@ -1,6 +1,6 @@
 <!-- ![](https://www.docker.com/wp-content/uploads/2022/09/User-MERN-Flow-Chart-1110x406.png.webp) -->
 
-- 👋 Hi, I’m @AshwinKumar0
+- 👋 Hi, I’m @AshwaniKumar
 - 👀 I’m interested in Learning different different Programming Languages and new technologies.
 <!-- - 🌱 I’m currently learning MERN STACK. -->
 <!-- - 💞️ I’m looking to collaborate on JAVA Web Applications -->
